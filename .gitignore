@@ -3,3 +3,4 @@ __pycache__/
 venv/
 base/migrations/__pycache__
 .vscode/
+data/
